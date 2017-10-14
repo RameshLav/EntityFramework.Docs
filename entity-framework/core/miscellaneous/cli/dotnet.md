@@ -7,8 +7,6 @@ ms.technology: entity-framework-core
 ---
 EF Core .NET Command-line Tools
 ===============================
-The Entity Framework Core .NET Command-line Tools are an extension to the cross-platform **dotnet** command, which is
-part of the [.NET Core SDK][2].
 
 > [!TIP]
 > If you're using Visual Studio, we recommend [the PMC Tools][1] instead since they provide a more integrated
